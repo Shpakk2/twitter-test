@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/twitter-test/static/css/main.13b39751.css",
+    "main.js": "/twitter-test/static/js/main.2c113f30.js",
+    "static/media/CardBG.png": "/twitter-test/static/media/CardBG.b3d9942b3f9d5dad1ff0.png",
+    "static/media/CardGoITLogo.svg": "/twitter-test/static/media/CardGoITLogo.e917114d7945c04c85a8946a331d28b6.svg",
+    "index.html": "/twitter-test/index.html",
+    "main.13b39751.css.map": "/twitter-test/static/css/main.13b39751.css.map",
+    "main.2c113f30.js.map": "/twitter-test/static/js/main.2c113f30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13b39751.css",
+    "static/js/main.2c113f30.js"
+  ]
+}
