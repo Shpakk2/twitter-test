@@ -3,7 +3,7 @@ import { Card } from "../../components/Card/Card";
 const Home = () => {
   return (
     <HomeContainer>
-      <TweetsLink to="/tweets">View users</TweetsLink>
+      <TweetsLink to="/tweets">View Users</TweetsLink>
       <Card
         followingUser={"Following"}
         setFollowing={[777]}
